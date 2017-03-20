@@ -1,0 +1,10 @@
+Rations are such
+
+Left -> 1920 / 100 * 5 = 96 pixels
+
+So left is 0.05  or 5%
+
+
+Bottom -> 1020 / 100 * 7 = 75 pixels
+
+So bottom is 0.93 or 93%

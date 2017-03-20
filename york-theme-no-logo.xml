@@ -1,0 +1,14 @@
+<template>
+  <name>YorkU Theme - No Logo</name>
+  <author>LCS</author>
+  <hidden>false</hidden>
+  <field>
+    <name>Graphics</name>
+    <type>Graphics</type>
+    <style></style>
+    <top>0.0</top>
+    <left>0.05</left>
+    <bottom>1.0</bottom>
+    <right>1.0</right>
+  </field>
+</template>
